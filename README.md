@@ -41,7 +41,11 @@
 ### Step 14: 
   Stop
 # Program:
+<img width="705" height="889" alt="image" src="https://github.com/user-attachments/assets/e7eff1b0-570d-43a2-ae9b-ee7cb86c6cca" />
+
 # Output:
+<img width="121" height="40" alt="image" src="https://github.com/user-attachments/assets/3847e989-e9cc-408b-851f-f8ae7ec2a31b" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -89,7 +93,12 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 13: 
   Stop
 # Program:
+<img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/e2870b72-ef44-462a-a02e-9502fe578887" />
+
+
 # Output:
+<img width="113" height="73" alt="image" src="https://github.com/user-attachments/assets/89c006e3-7790-4f9d-840d-210a4a74440f" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -137,7 +146,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11: 
  Stop
 # Program:
+<img width="500" height="461" alt="image" src="https://github.com/user-attachments/assets/59a18ed9-a567-4071-a80d-cbfbf7005035" />
+
 # Output:
+<img width="246" height="63" alt="image" src="https://github.com/user-attachments/assets/d02b6438-265b-4b2a-ba10-b2fd2094962b" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -185,7 +198,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7: 
   Stop
 # Program:
+<img width="586" height="908" alt="image" src="https://github.com/user-attachments/assets/f7b46c6b-af8b-4c97-a39f-f88165ff15b6" />
+
 # Output:
+<img width="164" height="111" alt="image" src="https://github.com/user-attachments/assets/44e15eab-a954-4d36-919e-47e7cf3cc460" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -220,7 +237,11 @@ To build a C program to convert a string as described above, using a user-define
 ### Step 6: 
  Stop
 # Program:
+<img width="490" height="702" alt="image" src="https://github.com/user-attachments/assets/9c118577-b45c-42d8-bd58-a710e74942a6" />
+
 # Output:
+<img width="141" height="48" alt="image" src="https://github.com/user-attachments/assets/e84ef749-54f7-4a50-be2f-e8b25e359210" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
